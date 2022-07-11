@@ -52,7 +52,7 @@ function Header(): JSX.Element
                 {/* <Link href="/account"> */}
                     <img
                         src="https://rb.gy/g1pwyx"
-                        onClick={logout}
+                        //onClick={logout}
                         alt=""
                         className="cursor-pointer rounded"
                     />
